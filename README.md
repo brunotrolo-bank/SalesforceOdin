@@ -2,15 +2,15 @@
 
 ## Hello World em 10 idiomas
 
-| Idioma | Saudação |
+| Idioma | Saudacao |
 |--------|----------|
-| Português | Olá, Mundo! |
+| Portugues | Ola, Mundo! |
 | English | Hello, World! |
-| Español | ¡Hola, Mundo! |
-| Français | Bonjour, le Monde! |
+| Espanol | Hola, Mundo! |
+| Francais | Bonjour, le Monde! |
 | Deutsch | Hallo, Welt! |
 | Italiano | Ciao, Mondo! |
-| 日本語 (Japonês) | こんにちは、世界！ |
-| 中文 (Chinês) | 你好，世界！ |
-| Русский (Russo) | Привет, мир! |
-| العربية (Árabe) | مرحبا بالعالم! |
+| Japones | Konnichiwa, Sekai! |
+| Chines | Ni Hao, Shijie! |
+| Russo | Privet, Mir! |
+| Arabe | Marhaba bil Alam! |
